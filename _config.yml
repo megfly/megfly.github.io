@@ -1,11 +1,11 @@
 # Site settings
-author: Meghan Flynn
-title: 
+author: Meghan
+title: Meghan's Blog
 header-img: img/home-bg.png
 email: mflynn333@gmail.com
-copyright_name: Meghan Flynn
+copyright_name: Meghan
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My Coding Journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  megfly
